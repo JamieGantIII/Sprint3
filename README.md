@@ -28,7 +28,7 @@ Use this Github repository to upload your assignemnts:
 
 ### Sprint 2 - Python Data Foundations
 - Tue April 18th - Fri April 21st: [Data Processing Using Python](https://academy.engagelms.com/course/view.php?id=1140#section-4)
-- Mon April 24th - Thu April 27th: [Data Anaylsis & Exception Handling](https://academy.engagelms.com/course/view.php?id=1140#section-5)
+- Mon April 24th - Wed April 26th: [Data Anaylsis & Exception Handling](https://academy.engagelms.com/course/view.php?id=1140#section-5)
 
 ### Sprint 3 - Python Data Analysis Project
-- Wed April 26th - Fri April 27th: [Data Anaylsis Project](https://academy.engagelms.com/course/view.php?id=1140#coursecontentcollapse6)
+- Thu April 27th - Mon May 1st: [Data Anaylsis Project](https://academy.engagelms.com/course/view.php?id=1140#coursecontentcollapse6)
